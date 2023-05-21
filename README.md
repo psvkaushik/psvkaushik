@@ -30,7 +30,7 @@ I am currently pursuing Masters in Computer Science from North Carolina State Un
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psvkaushik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # You can reach me via 🖇️
-- [![](https://img.shields.io/badge/-SuryaPrakashSusarla-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/psvkaushik/)
+- [![](https://img.shields.io/badge/-Kaushik-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/psvkaushik/)
 - [📧 Email](mailto:spillal2@ncsu.edu)
 
 
