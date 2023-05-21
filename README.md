@@ -4,7 +4,7 @@
 
 ---
 
-> # Hello! 👋
+> # Hello There! 👋
 I am Kaushik.
 Thank you for visiting my page.
 
