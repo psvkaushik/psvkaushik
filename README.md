@@ -35,7 +35,7 @@ I am currently pursuing Masters in Computer Science from North Carolina State Un
 
 
 <h1 align="center">Hi 👋, I'm name</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=name" alt="name" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=psvkaushik" alt="name" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,9 +43,9 @@ I am currently pursuing Masters in Computer Science from North Carolina State Un
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=name&show_icons=true&locale=en&layout=compact" alt="name" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=psvkaushik&show_icons=true&locale=en&layout=compact" alt="name" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=name&show_icons=true&locale=en" alt="name" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=psvkaushik&show_icons=true&locale=en" alt="name" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=name&" alt="name" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psvkaushik&" alt="name" /></p>
 
