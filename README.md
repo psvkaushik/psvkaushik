@@ -1,11 +1,11 @@
 <div id="heading-gif" align="center">
-  <img src="[https://media.giphy.com/media/3o7TKH6LSHV6m71bpu/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fkillua-hunter-x-hunter&psig=AOvVaw3HEhC7YEisAqAy_sSIh8Is&ust=1684718986618000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLCd6rqhhf8CFQAAAAAdAAAAABAg)" width="300">
+  <img src="https://media.giphy.com/media/3o7TKH6LSHV6m71bpu/giphy.gif" width="300">
 </div>&nbsp;
 
 ---
 
 > # Hello! 🙋‍♂️
-I am Surya Prakash Susarla.
+I am Kaushik.
 Thank you for visiting my page.
 
 I am an experienced system and full-stack software engineer interested in the areas of software engineering, data analysis, full-stack and mobile development.
