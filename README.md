@@ -27,6 +27,8 @@ I am currently pursuing Masters in Computer Science from North Carolina State Un
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=psvkaushik&theme=dark&background=000000)](https://git.io/streak-stats)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=psvkaushik&show_icons=true&locale=en" alt="name" /></p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psvkaushik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # You can reach me via 🖇️
@@ -34,18 +36,10 @@ I am currently pursuing Masters in Computer Science from North Carolina State Un
 - [📧 Email](mailto:spillal2@ncsu.edu)
 
 
-<h1 align="center">Hi 👋, I'm name</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=psvkaushik" alt="name" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=psvkaushik&show_icons=true&locale=en&layout=compact" alt="name" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=psvkaushik&show_icons=true&locale=en" alt="name" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psvkaushik&" alt="name" /></p>
+
 
