@@ -27,7 +27,7 @@ I am currently pursuing Masters in Computer Science from North Carolina State Un
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=psvkaushik&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=psvkaushik&show_icons=true&locale=en" alt="name" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=psvkaushik&show_icons=true&locale=en&theme=vision-friendly-dark" alt="name" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psvkaushik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
